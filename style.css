@@ -1,26 +1,26 @@
 @font-face {
   font-family: "roboto-light";
-  src: url(/Roboto_Condensed-Light.ttf);
+  src: url(fonts/Roboto_Condensed-Light.ttf);
 }
 
 @font-face {
   font-family: "roboto-regular";
-  src: url(/Roboto_Condensed-Regular.ttf);
+  src: url(fonts/Roboto_Condensed-Regular.ttf);
 }
 
 @font-face {
   font-family: "roboto-medium";
-  src: url(/Roboto_Condensed-Medium.ttf);
+  src: url(fonts/Roboto_Condensed-Medium.ttf);
 }
 
 @font-face {
   font-family: "roboto-semibold";
-  src: url(/Roboto_Condensed-SemiBold.ttf);
+  src: url(fonts/Roboto_Condensed-SemiBold.ttf);
 }
 
 @font-face {
   font-family: "roboto-bold";
-  src: url(/Roboto_SemiCondensed-Bold.ttf);
+  src: url(fonts/Roboto_SemiCondensed-Bold.ttf);
 }
 
 * {
