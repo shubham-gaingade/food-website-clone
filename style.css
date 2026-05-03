@@ -865,7 +865,7 @@
   }
 }
 
-@media (min-width: 951) {
+@media (min-width: 951px) {
   .ham-bar {
     display: none;
   }
