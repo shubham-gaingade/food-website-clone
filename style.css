@@ -752,9 +752,6 @@
   .btn-sign-in {
     display: none;
   }
-  .ham-bar {
-    display: block;
-  }
   .nav-button-container {
     gap: 10vw;
   }
@@ -836,9 +833,6 @@
   .btn-sign-in {
     display: none;
   }
-  .ham-bar {
-    display: block;
-  }
   .nav-button-container {
     gap: 10vw;
   }
@@ -862,6 +856,18 @@
     height: 53px;
     margin-right: 25px;
     margin-bottom: 18px;
+  }
+}
+
+@media (max-width: 950px) {
+  .ham-bar {
+    display: block;
+  }
+}
+
+@media (min-width: 951) {
+  .ham-bar {
+    display: none;
   }
 }
 
