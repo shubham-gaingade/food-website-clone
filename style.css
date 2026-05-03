@@ -80,7 +80,7 @@
 }
 
 .ham-bar {
-  display: none;
+  display: none !important;
 }
 
 .border-home {
@@ -861,13 +861,13 @@
 
 @media (max-width: 950px) {
   .ham-bar {
-    display: block;
+    display: block !important;
   }
 }
 
 @media (min-width: 951px) {
   .ham-bar {
-    display: none;
+    display: none !important;
   }
 }
 
